@@ -25,6 +25,5 @@ window.addEventListener('DOMContentLoaded', () => {
         '.big_img > img', 'do_image_more', 'inline-block')
     forms(modalState);
     timer('.container1', deadline);
-
     images();
 });
